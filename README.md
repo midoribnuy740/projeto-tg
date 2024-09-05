@@ -1,2 +1,2 @@
-# projeto-tg
-Projeto TG - Sistema de Pedidos Online
+# Projeto TG
+Sistema de Pedidos Online
